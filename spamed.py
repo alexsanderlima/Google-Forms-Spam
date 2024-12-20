@@ -27,7 +27,7 @@ URL = 'https://docs.google.com/forms/d/e/1FAIpQLSfoemQg90qTmA4ps9yh-YU46_9xDcMzB
 
 DATA = 'entry.2005620554=kushal&entry.1045781291=kushal%40gmail.com&entry.1166974658=1234567890&fvv=1&partialResponse=%5Bnull%2Cnull%2C%224688203165610129769%22%5D&pageHistory=0&fbzx=4688203165610129769'
 
-REFERER = 'https://docs.google.com/forms/d/e/1FAIpQLSfoemQg90qTmA4ps9yh-YU46_9xDcMzBILr-wSnPpyXVr9BLA/viewform?fbzx=4688203165610129769'
+REFERER = 'https://docs.google.com/forms/d/e/1FAIpQLSfmEsEcEnDS8LuxYrnouwz42LDn1BDp4fECLOGkzWS13RsHEQ/viewform?entry.362275882=DISEASE&entry.362275882=DEATH+OF+ME&entry.362275882=NOTORIOUS+BEING&entry.362275882=WHITE+SATIN&entry.362275882=PHANTOM+OF+OPERA&entry.362275882=ZOMBIE+GUY&entry.362275882=RED&entry.317600012=GOSTOSO+DEMAIS'
 
 COOKIE = 'S=spreadsheet_forms=_MWW_iXuve4ymMWEWsadrXL3MQ9E2nZslrqG0IpKaOI; NID=511=r7jrQT0RP2pXBPytn9JdONT8-Ji7XGUoITz5bgqxO0oDdIRIIKUm2t9qU7u-ddviv-HnYzCf6ePo5I24kVq8ivmRbgThX-Bn5JQHwSSYGzmI5BwaVErPulCdnkiwF7cUOlXBtBHuKMtaYE-SRAWQ7IV80t0oi-hHubIQYcX1bbY'
 
